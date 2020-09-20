@@ -1,7 +1,4 @@
 from selenium import webdriver
-from bs4 import BeautifulSoup
-import json
-from pprint import pprint
 import time
 
 
